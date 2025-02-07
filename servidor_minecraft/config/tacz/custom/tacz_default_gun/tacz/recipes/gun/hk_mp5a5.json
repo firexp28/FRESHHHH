@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 3
+    },
+    
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "item": "cw_additions:rubber_sheet"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:hk_mp5a5"
+  }
+}

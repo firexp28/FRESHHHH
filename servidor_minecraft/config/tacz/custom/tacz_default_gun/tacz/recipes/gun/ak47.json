@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "minecraft:planks"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:ak47"
+  }
+}

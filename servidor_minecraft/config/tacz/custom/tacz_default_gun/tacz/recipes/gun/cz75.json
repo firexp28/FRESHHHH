@@ -1,0 +1,27 @@
+{
+  "materials": [
+  {
+  "item": {
+   "item": "the_deep_void:refined_onyx"
+      },
+      "count": 3
+  },
+  {
+   "item": {
+   "item": "pointblank:guninternals"
+    },
+    "count": 3
+  },
+ 
+  {
+   "item": {
+     "item": "cw_additions:plastic_sheet"
+     },
+    "count": 3
+  }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:cz75"
+  }
+}
