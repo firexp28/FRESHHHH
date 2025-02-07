@@ -1,0 +1,12 @@
+[01:58:16.351][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[01:58:16.377][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[01:58:16.466][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[01:58:16.467][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[01:58:16.474][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin createtweaker:main
+[01:58:16.476][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[01:58:16.477][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin refurbished_furniture:plugin
+[01:58:17.568][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[01:58:17.571][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.44'
+[01:58:17.576][INFO][CraftTweaker]: - 'createtweaker' at version '4.0.13'
+[01:58:17.576][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.5'
+[01:58:17.576][INFO][CraftTweaker]: - 'refurbished_furniture' at version '1.0.8'
